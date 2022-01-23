@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">modul5</string>
+    <string name="hint_input_prodi">Masukkan Prodi</string>
+    <string name="btn_prodi">Bawa data prodi ke activity lain</string>
+</resources>
