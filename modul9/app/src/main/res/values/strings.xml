@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">modul9</string>
+    <string name="setting">setting</string>
+    <string name="default_theme">default theme</string>
+    <string name="tv_theme">tv theme</string>
+    <string name="default_age">default age</string>
+    <string name="age">age</string>
+    <string name="default_phone">default phone</string>
+    <string name="phone">phone</string>
+    <string name="default_email">default email</string>
+    <string name="email">email</string>
+    <string name="default_name">default name</string>
+    <string name="name">name</string>
+    <string name="save">save</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="dark_theme">dark theme</string>
+    <string name="phone_number">phone number</string>
+</resources>
