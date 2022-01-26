@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myfirstapp</string>
+    <string name="my_nim">my_nim</string>
+    <string name="ganti_halaman">ganti_halaman</string>
+    <string name="lbl_nim">lbl_nim</string>
+    <string name="lbl_name">lbl_nim</string>
+    <string name="my_name">my_name</string>
+</resources>
